@@ -5,7 +5,7 @@ I'm passionate about writing clean, dynamic, and maintainable code across divers
 
 * 📫  How to reach me: davidwoolner@gmaill.com
 * 🔭  My favorite language is JavaScript
-* 👀  [Resume](https://davidwoolner.github.io/img/David-Software-Engineer-Resume-1228.pdf)
+* 👀  [Resume](https://davidwoolner.github.io/DavidWoolner-SWE-Resume-03-15-23.pdf)
 * 🎨  [Portfolio](https://davidwoolner.github.io/)
 
 ### Technologies & Tools
