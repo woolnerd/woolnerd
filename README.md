@@ -3,7 +3,7 @@ I'm Dave Woolner, a software engineer and former set lighting technician. I have
 
 I'm passionate about writing clean, dynamic, and maintainable code across diverse teams. I'm a technologist with an artist's soul, who believes every line of code has a story to tell. As a recent graduate of App Academy's 1000+hr intensive bootcamp, I'm ready to tackle any challenge that comes my way.
 
-* 📫  How to reach me: davidwoolner@gmaill.com
+* 📫  How to reach me: davidwoolner@gmail.com
 * 🔭  My favorite language is JavaScript
 * 👀  [Resume](https://woolnerd.github.io/DaveWoolner-Resume1-11-06-23.pdf)
 * 🎨  [Portfolio](https://woolnerd.github.io/)
