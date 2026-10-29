@@ -8,7 +8,8 @@ These days my work is mostly TypeScript, React, Python, PostgreSQL, n8n, and Goo
 
 ## A few things I've built
 
-- [Production RAG system](https://github.com/woolnerd/production-rag-system): a document Q&A application with hybrid search, reranking, source citations, automated tests, and deployment tooling.
+- [Media QC Agent](https://github.com/woolnerd/media-qc-agent): quality supervision for AI-generated media pipelines. Deterministic gates catch defects first, a model interprets only what the gates miss, and humans approve scoped repairs that run through durable, idempotent jobs. Documented guarantees, ADRs, and model evals.
+- [Cited Doc QA](https://github.com/woolnerd/production-rag-system): document Q&A with hybrid search, reranking, source citations, automated tests, and deployment tooling.
 - [FTAI Voice Agent](https://github.com/woolnerd/ftai-voice-agent): a self-hostable real-time voice agent built with LiveKit and interchangeable speech and language-model providers.
 - [Tweak](https://github.com/woolnerd/tweak-app): a mobile lighting-control application that brings professional sACN lighting workflows to a smaller, more portable interface.
 
